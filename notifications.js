@@ -5,7 +5,7 @@
     "field_notification_link": "",
     "field_notification_position": "inline",
     "field_notification_presentation": "persistent",
-    "field_notification_urls": "www.embl.org/*",
+    "field_notification_urls": "localhost/*",
     "field_notification_button_text": "",
     "cookieVersion": "1",
     "cookieName": "fallbackNotification1",
